@@ -1,0 +1,5 @@
+{
+  "author": "Mod Author Name", //The name(s) of the people who worked on the mod, for example FlameWar-FuzzPaw
+  "name": "Mod Name", //Self Explainitory, the name of the mod ex. FoM Mod Example
+  "version": "1.0.0", //The version of the mod that the mod is
+}

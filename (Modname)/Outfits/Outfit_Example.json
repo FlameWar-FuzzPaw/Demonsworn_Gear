@@ -1,0 +1,15 @@
+{
+  "cosmetic_internal_name": {//internal name of the cosmetic, used to refer to the cosmetic in other files
+    "name": "Cosmetic Display Name",//the name of the cosmetic that will show in game
+    "description": "(Insert description/flavor text of cosmetic here.)", //the description/flavor text of the cosmetic in-game
+    "ui_slot": "(insert selected slot here)", //can be any of the following: 
+    "default_unlocked": idk, //Can either be true or false, note that if true, it will not apply retroactively to existing saves, so an alternate method of obtainment will likely be neccessary
+    "ui_sub_category": "(insert same selected slot here)", //can be any of the following: 
+    "lutFile": "images/example_name_lut.png", //file-path leading to the lut file of the cosmetic
+    "uiItem": "images/example_name_ui.png", //file-path leading to the UI sprite of the cosmetic
+    "outlineFile": "images/example_name_outline.png", //file-path leading to the outline texture of the cosmetic
+    "animationFiles": {//Used to play the animations of the cosmetic
+      "back_gear": "images/example_name_animation"//file-path that leads to the spritesheet of the animation
+    }//"back_gear" can be replaced with the following values: 
+  }
+}
