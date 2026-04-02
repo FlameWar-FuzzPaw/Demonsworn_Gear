@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+      "item": {
+        "crafting_scroll": "sword_demon_forged"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+        },
+        {
+         "item": {
+        "crafting_scroll": "electrum_ingot"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+    }
+    ],
+ "categories": [
+    {
+      "store": "blacksmith",
+      "icon_name": "modded_icon",
+      "sprite": "images/spr_ui_item_perfect_pink_diamond_0.png"
+    }
+  ]
+    }

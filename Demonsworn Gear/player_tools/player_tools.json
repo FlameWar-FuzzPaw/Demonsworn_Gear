@@ -1,0 +1,192 @@
+{
+"sword_demon_forged": {
+    "combo1": {
+      "tool": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_combo1_s"
+      },
+      "tool_effect": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_combo1_s"
+      },
+      "tool_effect_critical": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo1_s"
+      },
+      "tool_effect_fire": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo1_s"
+      },
+      "tool_effect_fire_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo1_s"
+      },
+      "tool_effect_ice": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo1_s"
+      },
+      "tool_effect_ice_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo1_s"
+      },
+      "tool_effect_venom": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo1_s"
+      },
+      "tool_effect_venom_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo1_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo1_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo1_s"
+      }
+    },
+    "combo2": {
+      "tool": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_combo2_s"
+      },
+      "tool_effect": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_combo2_s"
+      },
+      "tool_effect_critical": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo2_s"
+      },
+      "tool_effect_fire": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo2_s"
+      },
+      "tool_effect_fire_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo2_s"
+      },
+      "tool_effect_ice": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo2_s"
+      },
+      "tool_effect_ice_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo2_s"
+      },
+      "tool_effect_venom": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo2_s"
+      },
+      "tool_effect_venom_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo2_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo2_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo2_s"
+      }
+    },
+    "combo3": {
+      "tool": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_combo3_s"
+      },
+      "tool_effect": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_combo3_s"
+      },
+      "tool_effect_critical": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_combo3_s"
+      },
+      "tool_effect_fire": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_combo3_s"
+      },
+      "tool_effect_fire_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_combo3_s"
+      },
+      "tool_effect_ice": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_combo3_s"
+      },
+      "tool_effect_ice_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_combo3_s"
+      },
+      "tool_effect_venom": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_combo3_s"
+      },
+      "tool_effect_venom_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo3_e",
+        "north": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo3_n",
+        "south": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_combo3_s"
+      }
+    },
+    "down_attack": {
+      "tool": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_critical": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_critical_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_fire": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_fire_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_fire_outline_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_ice": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_ice_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_ice_outline_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_venom": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_down_attack_e",
+        "north": "",
+        "south": ""
+      },
+      "tool_effect_venom_outline": {
+        "east": "spr_weapon_sword_corrupted_mistril_tool_effect_venom_outline_down_attack_e",
+        "north": "",
+        "south": ""
+      }
+    }
+  }
+}

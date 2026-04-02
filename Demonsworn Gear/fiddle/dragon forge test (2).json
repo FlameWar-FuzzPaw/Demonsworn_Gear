@@ -1,0 +1,208 @@
+{
+    "ui": {
+        "crafting": {
+            "dragon_forging": {
+                "categories": [
+                    {
+                        "name": "ui/crafting/dragon_forging/categories/0/name",
+                        "icon": "spr_ui_blacksmithing_category_icon_swords",
+                        "sub_categories": [
+                            {
+                                "name": "ui/crafting/dragon_forging/categories/0/sub_categories/0/name",
+                                "icon": "spr_ui_blacksmithing_category_icon_swords",
+                                "manual_order": [
+                                    "sword_dragon_forged"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ui/crafting/dragon_forging/categories/1/name",
+                        "icon": "spr_ui_blacksmithing_category_icon_materials",
+                        "sub_categories": [
+                            {
+                                "name": "ui/crafting/dragon_forging/categories/1/sub_categories/0/name",
+                                "icon": "spr_ui_blacksmithing_category_icon_materials",
+                                "manual_order": [
+                                    "dragon_forged_fang",
+                                    "dragon_forged_horn",
+                                    "dragon_forged_core",
+                                    "dragon_forged_powder"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Demon-Forging",
+                        "icon": "spr_ui_item_perfect_pink_diamond",
+                        "sub_categories": [
+                            {
+                                "name": "Demon-Forging",
+                                "icon": "spr_ui_item_perfect_pink_diamond",
+                                "manual_order": [
+                                    "sword_demon_forged",
+                                    "electrum_ingot"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "ui/crafting": {
+        "dragon_forging": {
+            "categories": [
+                {
+                    "name": "ui/crafting/dragon_forging/categories/0/name",
+                    "icon": "spr_ui_blacksmithing_category_icon_swords",
+                    "sub_categories": [
+                        {
+                            "name": "ui/crafting/dragon_forging/categories/0/sub_categories/0/name",
+                            "icon": "spr_ui_blacksmithing_category_icon_swords",
+                            "manual_order": [
+                                "sword_dragon_forged"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ui/crafting/dragon_forging/categories/1/name",
+                    "icon": "spr_ui_blacksmithing_category_icon_materials",
+                    "sub_categories": [
+                        {
+                            "name": "ui/crafting/dragon_forging/categories/1/sub_categories/0/name",
+                            "icon": "spr_ui_blacksmithing_category_icon_materials",
+                            "manual_order": [
+                                "dragon_forged_fang",
+                                "dragon_forged_horn",
+                                "dragon_forged_core",
+                                "dragon_forged_powder"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Demon-Forging",
+                    "icon": "spr_ui_item_perfect_pink_diamond",
+                    "sub_categories": [
+                        {
+                            "name": "Demon-Forging",
+                            "icon": "spr_ui_item_perfect_pink_diamond",
+                            "manual_order": [
+                                "sword_demon_forged",
+                                "electrum_ingot"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "ui/crafting/dragon_forging": {
+        "categories": [
+            {
+                "name": "ui/crafting/dragon_forging/categories/0/name",
+                "icon": "spr_ui_blacksmithing_category_icon_swords",
+                "sub_categories": [
+                    {
+                        "name": "ui/crafting/dragon_forging/categories/0/sub_categories/0/name",
+                        "icon": "spr_ui_blacksmithing_category_icon_swords",
+                        "manual_order": [
+                            "sword_dragon_forged"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "ui/crafting/dragon_forging/categories/1/name",
+                "icon": "spr_ui_blacksmithing_category_icon_materials",
+                "sub_categories": [
+                    {
+                        "name": "ui/crafting/dragon_forging/categories/1/sub_categories/0/name",
+                        "icon": "spr_ui_blacksmithing_category_icon_materials",
+                        "manual_order": [
+                            "dragon_forged_fang",
+                            "dragon_forged_horn",
+                            "dragon_forged_core",
+                            "dragon_forged_powder"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Demon-Forging",
+                "icon": "spr_ui_item_perfect_pink_diamond",
+                "sub_categories": [
+                    {
+                        "name": "Demon-Forging",
+                        "icon": "spr_ui_item_perfect_pink_diamond",
+                        "manual_order": [
+                            "sword_demon_forged",
+                            "electrum_ingot"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ui/crafting/dragon_forging/categories": [
+        {
+            "name": "ui/crafting/dragon_forging/categories/0/name",
+            "icon": "spr_ui_blacksmithing_category_icon_swords",
+            "sub_categories": [
+                {
+                    "name": "ui/crafting/dragon_forging/categories/0/sub_categories/0/name",
+                    "icon": "spr_ui_blacksmithing_category_icon_swords",
+                    "manual_order": [
+                        "sword_dragon_forged"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ui/crafting/dragon_forging/categories/1/name",
+            "icon": "spr_ui_blacksmithing_category_icon_materials",
+            "sub_categories": [
+                {
+                    "name": "ui/crafting/dragon_forging/categories/1/sub_categories/0/name",
+                    "icon": "spr_ui_blacksmithing_category_icon_materials",
+                    "manual_order": [
+                        "dragon_forged_fang",
+                        "dragon_forged_horn",
+                        "dragon_forged_core",
+                        "dragon_forged_powder"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Demon-Forging",
+            "icon": "spr_ui_item_perfect_pink_diamond",
+            "sub_categories": [
+                {
+                    "name": "Demon-Forging",
+                    "icon": "spr_ui_item_perfect_pink_diamond",
+                    "manual_order": [
+                        "sword_demon_forged",
+                        "electrum_ingot"
+                    ]
+                }
+            ]
+        }
+    ],
+    "ui/crafting/dragon_forging/categories/2": {
+        "name": "Demon-Forging",
+        "icon": "spr_ui_item_perfect_pink_diamond",
+        "sub_categories": [
+            {
+                "name": "Demon-Forging",
+                "icon": "spr_ui_item_perfect_pink_diamond",
+                "manual_order": [
+                    "sword_demon_forged",
+                    "electrum_ingot"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "item": "electrum_ingot",
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": "sword_demon_forged",
+      "store": "general",
+      "category": "modded_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/spr_ui_item_perfect_pink_diamond_0.png"
+    }
+  ]
+}
