@@ -2,7 +2,7 @@
   "sword_demon_forged": {
     "description": "A sword forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
     "damage": 32,
-    "icon_sprite": "spr_ui_item_tool_dragon_forged_sword",
+    "icon_sprite": "demon_forged_sword",
     "name": "Demon-Forged Blade",
     "quality": "tier6",
     "recipe_is_default": true,
@@ -35,11 +35,15 @@
         "hours": 1,
         "minutes": 0
       }
-    ]
+    ],
+        "value": {
+      "bin": "self.recipe*1.5",
+      "store": 666666
+    }
   },
   "electrum_ingot": {
     "description": "An ingot of pure electrum alloy.",
-    "icon_sprite": "spr_ui_item_mistril_ingot",
+    "icon_sprite": "electrum_ingot",
     "name": "Electrum Ingot",
     "overwrites_other_mod": false,
     "tags": [
@@ -71,8 +75,205 @@
       }
     ],
     "value": {
-      "bin": 330,
-      "store": 700
+      "bin": "self.recipe*1.2",
+      "store": 5000
     }
-  }
+  },
+          "demon_forged_chestplate": {
+          "description": "A chestplate forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
+          "defense": 8,
+          "icon_sprite": "demon_forged_chestplate",
+          "name": "Demon-Forged Chestplate",
+          "recipe_is_default": true,
+          "overwrites_other_mod": false,
+          "default_infusion": "hasty",
+          "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ],
+          "crafting_level_requirement": 60,
+          "recipe": [
+            {
+              "hours": 0,
+              "minutes": 50
+            },
+            {
+              "count": 10,
+              "item": "mistril_ingot"
+            },
+            {
+              "count": 1,
+              "item": "perfect_pink_diamond"
+            },
+            {
+              "count": 5,
+            "item": "electrum_ingot"
+          }
+          ],
+          "value": {
+            "bin": "self.recipe*1.5",
+            "store": 66666
+          }
+        },
+                  "demon_forged_helm": {
+          "description": "An enchanted essence blossom empowered in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
+          "defense": 8,
+          "icon_sprite": "enchanted_essence_blossom",
+          "name": "Demon-Forged Essence Blossom",
+          "recipe_is_default": true,
+          "overwrites_other_mod": false,
+          "default_infusion": "hasty",
+          "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ],
+          "crafting_level_requirement": 60,
+          "recipe": [
+            {
+              "hours": 0,
+              "minutes": 50
+            },
+            {
+              "count": 10,
+              "item": "mistril_ingot"
+            },
+            {
+              "count": 1,
+              "item": "essence_blossom"
+            },
+            {
+              "count": 5,
+            "item": "electrum_ingot"
+          }
+          ],
+          "value": {
+            "bin": "self.recipe*1.5",
+            "store": 66666
+          }
+        },
+                  "demon_forged_boots": {
+          "description": "A pair of boots forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge...",
+          "defense": 8,
+          "icon_sprite": "demon_forged_boots",
+          "name": "Demon-Forged Boots",
+          "recipe_is_default": true,
+          "overwrites_other_mod": false,
+          "default_infusion": "hasty",
+          "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ],
+          "crafting_level_requirement": 60,
+          "recipe": [
+            {
+              "hours": 0,
+              "minutes": 50
+            },
+            {
+              "count": 10,
+              "item": "mistril_ingot"
+            },
+            {
+              "count": 25,
+              "item": "ore_pink_diamond"
+            },
+            {
+              "count": 5,
+            "item": "electrum_ingot"
+          }
+          ],
+          "value": {
+            "bin": "self.recipe*1.5",
+            "store": 66666
+          }
+        },
+                  "demon_forged_thingy": {
+          "description": "A... Something forged in Demonic fire, although this one is probably a knockoff as it was made in a Dragon Forge...",
+          "defense": 8,
+          "icon_sprite": "demon_forged_thingy",
+          "name": "Demon-Forged Thingy",
+          "recipe_is_default": true,
+          "overwrites_other_mod": false,
+          "default_infusion": "hasty",
+          "tags": [
+            "accessory",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ],
+          "crafting_level_requirement": 60,
+          "recipe": [
+            {
+              "hours": 0,
+              "minutes": 50
+            },
+            {
+              "count": 10,
+              "item": "mistril_ingot"
+            },
+            {
+              "count": 1,
+              "item": "hardened_essence"
+            },
+            {
+              "count": 5,
+            "item": "electrum_ingot"
+          }
+          ],
+          "value": {
+            "bin": "self.recipe*1.5",
+            "store": "self.recipe*2500"
+          }
+        },
+
+                  "demon_forged_panties": {
+          "description": "Some luxurious pink 'shorts' trimmed in gold, and forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge...",
+          "defense": 8,
+          "icon_sprite": "demon_forged_shorts",
+          "name": "Demon-Forged 'Shorts'",
+          "recipe_is_default": true,
+          "overwrites_other_mod": false,
+          "default_infusion": "hasty",
+          "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ],
+          "crafting_level_requirement": 60,
+          "recipe": [
+            {
+              "hours": 0,
+              "minutes": 50
+            },
+            {
+              "count": 10,
+              "item": "mistril_ingot"
+            },
+            {
+              "count": 20,
+              "item": "gold_ingot"
+            },
+            {
+              "count": 5,
+            "item": "electrum_ingot"
+          }
+          ],
+          "value": {
+            "bin": "self.recipe*1.5",
+            "store": 69420
+          }
+        }
+
 }

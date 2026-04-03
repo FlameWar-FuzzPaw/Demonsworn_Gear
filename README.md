@@ -1,8 +1,6 @@
-# FoM_Mod_Template
-A free to use file structure template for creating mods for Fields of Mistria!
+A WIP mod that adds endgame armor and weapons that focus on mobility and damage rather than defense.
 
- Currently very WIP, I need to go through all of the currently avalible documentation and compile it into this template manually...
+Spoiler alert!
 
-I plan on updating this as time goes on and documentation becomes more avalible, so long as I remember to do so and have the time.
 
-If you want to contribute, feel free to make a fork and open a PR!
+The equipment is crafted on floor 90 of the mines, at the dragon forge, although this will get changed once it becomes possible/easier to implement custom crafting stations.

@@ -5,8 +5,33 @@
       "store": "general",
       "category": "modded_icon"
     },
-    {
+        {
       "item": "sword_demon_forged",
+      "store": "general",
+      "category": "modded_icon"
+    },
+        {
+      "item": "demon_forged_thingy",
+      "store": "general",
+      "category": "modded_icon"
+    },
+            {
+      "item": "demon_forged_panties",
+      "store": "general",
+      "category": "modded_icon"
+    },
+            {
+      "item": "demon_forged_boots",
+      "store": "general",
+      "category": "modded_icon"
+    },
+            {
+      "item": "demon_forged_helm",
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": "demon_forged_chestplate",
       "store": "general",
       "category": "modded_icon"
     }

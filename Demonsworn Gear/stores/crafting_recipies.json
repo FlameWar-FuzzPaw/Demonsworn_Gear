@@ -13,6 +13,41 @@
       },
       "store": "blacksmith",
       "category": "modded_icon"
+    },
+            {
+         "item": {
+        "crafting_scroll": "demon_forged_thingy"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+    },
+            {
+         "item": {
+        "crafting_scroll": "demon_forged_panties"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+    },
+            {
+         "item": {
+        "crafting_scroll": "demon_forged_boots"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+    },
+            {
+         "item": {
+        "crafting_scroll": "demon_forged_helm"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
+    },
+            {
+         "item": {
+        "crafting_scroll": "demon_forged_chestplate"
+      },
+      "store": "blacksmith",
+      "category": "modded_icon"
     }
     ],
  "categories": [

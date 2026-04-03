@@ -1,0 +1,44 @@
+{
+
+  "demon_forged_boots": {
+    "Location": "images/demon_forged_boots.png",
+    "IsAnimated": false
+  },
+
+
+  "demon_forged_chestplate": {
+    "Location": "images/demon_forged_chestplate.png",
+    "IsAnimated": false
+  },
+
+
+  "demon_forged_sword": {
+    "Location": "images/demon_forged_sword.png",
+    "IsAnimated": false
+  },
+ 
+
+  "demon_forged_shorts": {
+    "Location": "images/demon_forged_shorts.png",
+    "IsAnimated": false
+  },
+
+
+  "electrum_ingot": {
+    "Location": "images/electrum_ingot.png",
+    "IsAnimated": false
+  },
+  
+
+  "enchanted_essence_blossom": {
+    "Location": "images/enchanted_essence_blossom.png",
+    "IsAnimated": false
+  },
+
+
+  "demon_forged_thingy": {
+    "Location": "images/demon_forged_thingy.png",
+    "IsAnimated": false
+    }
+
+}

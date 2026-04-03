@@ -1,4 +1,5 @@
 {
+ 
     "ui": {
         "crafting": {
             "dragon_forging": {
@@ -41,7 +42,12 @@
                                 "icon": "spr_ui_item_perfect_pink_diamond",
                                 "manual_order": [
                                     "sword_demon_forged",
-                                    "electrum_ingot"
+                                    "electrum_ingot",
+                                    "demon_forged_helm",
+                                    "demon_forged_boots",
+                                    "demon_forged_panties",
+                                    "demon_forged_thingy",
+                                    "demon_forged_chestplate"
                                 ]
                             }
                         ]
@@ -91,7 +97,12 @@
                             "icon": "spr_ui_item_perfect_pink_diamond",
                             "manual_order": [
                                 "sword_demon_forged",
-                                "electrum_ingot"
+                                "electrum_ingot",
+                                "demon_forged_helm",
+                                "demon_forged_boots",
+                                "demon_forged_panties",
+                                "demon_forged_thingy",
+                                "demon_forged_chestplate"
                             ]
                         }
                     ]
@@ -139,7 +150,12 @@
                         "icon": "spr_ui_item_perfect_pink_diamond",
                         "manual_order": [
                             "sword_demon_forged",
-                            "electrum_ingot"
+                            "electrum_ingot",
+                            "demon_forged_helm",
+                            "demon_forged_boots",
+                            "demon_forged_panties",
+                            "demon_forged_thingy",
+                            "demon_forged_chestplate"
                         ]
                     }
                 ]
@@ -185,7 +201,12 @@
                     "icon": "spr_ui_item_perfect_pink_diamond",
                     "manual_order": [
                         "sword_demon_forged",
-                        "electrum_ingot"
+                        "electrum_ingot",
+                        "demon_forged_helm",
+                        "demon_forged_boots",
+                        "demon_forged_panties",
+                        "demon_forged_thingy",
+                        "demon_forged_chestplate"
                     ]
                 }
             ]
@@ -200,9 +221,15 @@
                 "icon": "spr_ui_item_perfect_pink_diamond",
                 "manual_order": [
                     "sword_demon_forged",
-                    "electrum_ingot"
+                    "electrum_ingot",
+                    "demon_forged_helm",
+                    "demon_forged_boots",
+                    "demon_forged_panties",
+                    "demon_forged_thingy",
+                    "demon_forged_chestplate"
                 ]
             }
         ]
     }
+
 }
