@@ -1,44 +1,63 @@
 {
 
-  "demon_forged_boots": {
-    "Location": "images/demon_forged_boots.png",
+  "fwi_demon_forged_boots": {
+    "Location": "images/fwi_demon_forged_boots.png",
     "IsAnimated": false
   },
 
 
-  "demon_forged_chestplate": {
-    "Location": "images/demon_forged_chestplate.png",
+  "fwi_demon_forged_chestplate": {
+    "Location": "images/fwi_demon_forged_chestplate.png",
     "IsAnimated": false
   },
 
 
-  "demon_forged_sword": {
-    "Location": "images/demon_forged_sword.png",
+  "fwi_demon_forged_sword": {
+    "Location": "images/fwi_demon_forged_sword.png",
     "IsAnimated": false
   },
  
 
-  "demon_forged_shorts": {
-    "Location": "images/demon_forged_shorts.png",
+  "fwi_demon_forged_shorts": {
+    "Location": "images/fwi_demon_forged_shorts.png",
     "IsAnimated": false
   },
 
 
-  "electrum_ingot": {
-    "Location": "images/electrum_ingot.png",
+  "fwi_electrum_ingot": {
+    "Location": "images/fwi_electrum_ingot.png",
     "IsAnimated": false
   },
   
 
-  "enchanted_essence_blossom": {
-    "Location": "images/enchanted_essence_blossom.png",
+  "fwi_enchanted_essence_blossom": {
+    "Location": "images/fwi_enchanted_essence_blossom.png",
     "IsAnimated": false
   },
 
 
-  "demon_forged_thingy": {
-    "Location": "images/demon_forged_thingy.png",
+  "fwi_demon_forged_thingy": {
+    "Location": "images/fwi_demon_forged_thingy.png",
     "IsAnimated": false
-    }
+    },
+
+    //edibles
+
+  "fwi_spellfruit_mocktail_bundle": {
+    "Location": "images/fwi_spellfruit_mocktail.png",
+    "IsAnimated": false
+  },
+
+  "fwi_spellfruit_mocktail": {
+    "Location": "images/fwi_spellfruit_mocktail.png",
+    "IsAnimated": false
+  },
+//DEBUG
+
+"fwi_debug_gear_bundle": {
+  "Location": "images/spr_ui_item_perfect_pink_diamond_0.png",
+  "IsAnimated": false
+}
+
 
 }

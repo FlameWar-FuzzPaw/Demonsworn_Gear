@@ -1,8 +1,8 @@
 {
-  "sword_demon_forged": {
+  "fwi_sword_demon_forged": {
     "description": "A sword forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
     "damage": 32,
-    "icon_sprite": "demon_forged_sword",
+    "icon_sprite": "fwi_demon_forged_sword",
     "name": "Demon-Forged Blade",
     "quality": "tier6",
     "recipe_is_default": true,
@@ -28,7 +28,7 @@
         "count": 1
       },
       {
-        "item": "electrum_ingot",
+        "item": "fwi_electrum_ingot",
         "count": 5
       },
       {
@@ -41,9 +41,9 @@
       "store": 666666
     }
   },
-  "electrum_ingot": {
+  "fwi_electrum_ingot": {
     "description": "An ingot of pure electrum alloy.",
-    "icon_sprite": "electrum_ingot",
+    "icon_sprite": "fwi_electrum_ingot",
     "name": "Electrum Ingot",
     "overwrites_other_mod": false,
     "tags": [
@@ -79,10 +79,10 @@
       "store": 5000
     }
   },
-          "demon_forged_chestplate": {
+          "fwi_demon_forged_chestplate": {
           "description": "A chestplate forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
           "defense": 8,
-          "icon_sprite": "demon_forged_chestplate",
+          "icon_sprite": "fwi_demon_forged_chestplate",
           "name": "Demon-Forged Chestplate",
           "recipe_is_default": true,
           "overwrites_other_mod": false,
@@ -110,7 +110,7 @@
             },
             {
               "count": 5,
-            "item": "electrum_ingot"
+            "item": "fwi_electrum_ingot"
           }
           ],
           "value": {
@@ -118,10 +118,10 @@
             "store": 66666
           }
         },
-                  "demon_forged_helm": {
+                  "fwi_demon_forged_helm": {
           "description": "An enchanted essence blossom empowered in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge...",
           "defense": 8,
-          "icon_sprite": "enchanted_essence_blossom",
+          "icon_sprite": "fwi_enchanted_essence_blossom",
           "name": "Demon-Forged Essence Blossom",
           "recipe_is_default": true,
           "overwrites_other_mod": false,
@@ -149,7 +149,7 @@
             },
             {
               "count": 5,
-            "item": "electrum_ingot"
+            "item": "fwi_electrum_ingot"
           }
           ],
           "value": {
@@ -157,10 +157,10 @@
             "store": 66666
           }
         },
-                  "demon_forged_boots": {
+                  "fwi_demon_forged_boots": {
           "description": "A pair of boots forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge...",
           "defense": 8,
-          "icon_sprite": "demon_forged_boots",
+          "icon_sprite": "fwi_demon_forged_boots",
           "name": "Demon-Forged Boots",
           "recipe_is_default": true,
           "overwrites_other_mod": false,
@@ -188,7 +188,7 @@
             },
             {
               "count": 5,
-            "item": "electrum_ingot"
+            "item": "fwi_electrum_ingot"
           }
           ],
           "value": {
@@ -196,10 +196,10 @@
             "store": 66666
           }
         },
-                  "demon_forged_thingy": {
+                  "fwi_demon_forged_thingy": {
           "description": "A... Something forged in Demonic fire, although this one is probably a knockoff as it was made in a Dragon Forge...",
           "defense": 8,
-          "icon_sprite": "demon_forged_thingy",
+          "icon_sprite": "fwi_demon_forged_thingy",
           "name": "Demon-Forged Thingy",
           "recipe_is_default": true,
           "overwrites_other_mod": false,
@@ -227,7 +227,7 @@
             },
             {
               "count": 5,
-            "item": "electrum_ingot"
+            "item": "fwi_electrum_ingot"
           }
           ],
           "value": {
@@ -236,10 +236,10 @@
           }
         },
 
-                  "demon_forged_panties": {
+                  "fwi_demon_forged_panties": {
           "description": "Some luxurious pink 'shorts' trimmed in gold, and forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge...",
           "defense": 8,
-          "icon_sprite": "demon_forged_shorts",
+          "icon_sprite": "fwi_demon_forged_shorts",
           "name": "Demon-Forged 'Shorts'",
           "recipe_is_default": true,
           "overwrites_other_mod": false,
@@ -267,13 +267,156 @@
             },
             {
               "count": 5,
-            "item": "electrum_ingot"
+            "item": "fwi_electrum_ingot"
           }
           ],
           "value": {
             "bin": "self.recipe*1.5",
             "store": 69420
           }
-        }
+        },
 
+        //Foodstuffs
+
+
+        "fwi_spellfruit_mocktail_bundle": {
+          "description": "An unfinished spell fruit mocktail. Use to stir and finish it.",
+          "icon_sprite": "fwi_spellfruit_mocktail_bundle",
+          "name": "Unfinished Spell Fruit Mocktail",
+          "overwrites_other_mod": false,
+          "stars": 5,
+          "crafting_level_requirement": 45,
+          "kitchen_tier_requirement": 3,
+          "tags": [
+            "cold_drink"
+          ],
+          "item_bundle": [
+            {
+              "fwi_spellfruit_mocktail": 1
+            }
+          ],
+
+                    "recipe": [
+            {
+              "count": 1,
+              "item": "essence_blossom"
+            },
+            {
+              "count": 1,
+              "item": "lemon"
+            },
+            {
+              "count": 1,
+              "item": "rock_salt"
+            },
+            {
+              "count": 1,
+              "item": "spell_fruit"
+            },
+
+
+            {
+              "hours": 0,
+              "minutes": 60
+            }
+          ],
+          "value": {
+            "bin": "self.recipe * 1.1"
+          }
+        },
+
+
+        "fwi_spellfruit_mocktail": {
+    "description": "A mocktail made from spell fruit and essence blossoms, consume for 50 essence.",
+    "icon_sprite": "fwi_spellfruit_mocktail",
+    "name": "Spell Fruit Mocktail",
+    "overwrites_other_mod": false,
+
+          "tags": [
+            "essence_stone",
+            "material"
+          ],
+          "essence_charge": 0,
+          "recipe_is_default": false,
+
+
+
+          "recipe": [
+            {
+              "essence": 50
+            },
+
+            {
+              "count": 1,
+              "item": "essence_blossom"
+            },
+
+            {
+              "count": 1,
+              "item": "lemon"
+            },
+
+            {
+              "count": 1,
+              "item": "rock_salt"
+            },
+
+            {
+              "count": 1,
+              "item": "spell_fruit"
+            },
+
+            {
+              "hours": 0,
+              "minutes": 60
+            }
+          ],
+          "value": {
+            "store": 420,
+            "bin": "self.recipe * 1.1"
+          }
+        },
+
+        //DEUG CHEATS LOL
+
+                "fwi_debug_gear_bundle": {
+          "description": "this is for debug purposes [Ari], hence the bad grammer",
+          "icon_sprite": "fwi_debug_gear_bundle",
+          "name": "debug shit",
+          "overwrites_other_mod": false,
+          "stars": 5,
+          "crafting_level_requirement": 45,
+          "kitchen_tier_requirement": 3,
+          "item_bundle": [
+            {
+              "fwi_demon_forged_boots": 1
+            },
+
+            {
+              "fwi_sword_demon_forged": 1
+            },
+
+            {
+              "fwi_demon_forged_thingy": 1
+            },
+
+            {
+              "fwi_demon_forged_chestplate": 1
+            },
+
+            {
+              "fwi_demon_forged_helm": 1
+            },
+            
+            {
+              "fwi_demon_forged_panties": 1
+            }
+          ],
+
+          "value": {
+            "store": 1,
+            "bin": 9999
+          }
+
+}
 }

@@ -41,13 +41,13 @@
                                 "name": "Demon-Forging",
                                 "icon": "spr_ui_item_perfect_pink_diamond",
                                 "manual_order": [
-                                    "sword_demon_forged",
-                                    "electrum_ingot",
-                                    "demon_forged_helm",
-                                    "demon_forged_boots",
-                                    "demon_forged_panties",
-                                    "demon_forged_thingy",
-                                    "demon_forged_chestplate"
+                                    "fwi_sword_demon_forged",
+                                    "fwi_electrum_ingot",
+                                    "fwi_demon_forged_helm",
+                                    "fwi_demon_forged_boots",
+                                    "fwi_demon_forged_panties",
+                                    "fwi_demon_forged_thingy",
+                                    "fwi_demon_forged_chestplate"
                                 ]
                             }
                         ]
@@ -96,13 +96,13 @@
                             "name": "Demon-Forging",
                             "icon": "spr_ui_item_perfect_pink_diamond",
                             "manual_order": [
-                                "sword_demon_forged",
-                                "electrum_ingot",
-                                "demon_forged_helm",
-                                "demon_forged_boots",
-                                "demon_forged_panties",
-                                "demon_forged_thingy",
-                                "demon_forged_chestplate"
+                                "fwi_sword_demon_forged",
+                                "fwi_electrum_ingot",
+                                "fwi_demon_forged_helm",
+                                "fwi_demon_forged_boots",
+                                "fwi_demon_forged_panties",
+                                "fwi_demon_forged_thingy",
+                                "fwi_demon_forged_chestplate"
                             ]
                         }
                     ]
@@ -149,13 +149,13 @@
                         "name": "Demon-Forging",
                         "icon": "spr_ui_item_perfect_pink_diamond",
                         "manual_order": [
-                            "sword_demon_forged",
-                            "electrum_ingot",
-                            "demon_forged_helm",
-                            "demon_forged_boots",
-                            "demon_forged_panties",
-                            "demon_forged_thingy",
-                            "demon_forged_chestplate"
+                            "fwi_sword_demon_forged",
+                            "fwi_electrum_ingot",
+                            "fwi_demon_forged_helm",
+                            "fwi_demon_forged_boots",
+                            "fwi_demon_forged_panties",
+                            "fwi_demon_forged_thingy",
+                            "fwi_demon_forged_chestplate"
                         ]
                     }
                 ]
@@ -200,13 +200,13 @@
                     "name": "Demon-Forging",
                     "icon": "spr_ui_item_perfect_pink_diamond",
                     "manual_order": [
-                        "sword_demon_forged",
-                        "electrum_ingot",
-                        "demon_forged_helm",
-                        "demon_forged_boots",
-                        "demon_forged_panties",
-                        "demon_forged_thingy",
-                        "demon_forged_chestplate"
+                        "fwi_sword_demon_forged",
+                        "fwi_electrum_ingot",
+                        "fwi_demon_forged_helm",
+                        "fwi_demon_forged_boots",
+                        "fwi_demon_forged_panties",
+                        "fwi_demon_forged_thingy",
+                        "fwi_demon_forged_chestplate"
                     ]
                 }
             ]
@@ -220,13 +220,13 @@
                 "name": "Demon-Forging",
                 "icon": "spr_ui_item_perfect_pink_diamond",
                 "manual_order": [
-                    "sword_demon_forged",
-                    "electrum_ingot",
-                    "demon_forged_helm",
-                    "demon_forged_boots",
-                    "demon_forged_panties",
-                    "demon_forged_thingy",
-                    "demon_forged_chestplate"
+                    "fwi_sword_demon_forged",
+                    "fwi_electrum_ingot",
+                    "fwi_demon_forged_helm",
+                    "fwi_demon_forged_boots",
+                    "fwi_demon_forged_panties",
+                    "fwi_demon_forged_thingy",
+                    "fwi_demon_forged_chestplate"
                 ]
             }
         ]
