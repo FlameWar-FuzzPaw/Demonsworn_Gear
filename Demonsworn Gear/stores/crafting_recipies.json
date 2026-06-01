@@ -56,14 +56,14 @@
         },
         "store": "inn",
         "category": "spr_ui_store_category_icon_cooking_recipes"
-            },
+            }//,
 //Debug item
-            {
-         "item": 
-         "fwi_debug_gear_bundle",
-         "store": "blacksmith",
-         "category": "modded_icon"
-        }
+   //         {
+     //    "item": 
+      //   "fwi_debug_gear_bundle",
+      //   "store": "blacksmith",
+      //   "category": "modded_icon"
+    //    }
     ],
 
   
