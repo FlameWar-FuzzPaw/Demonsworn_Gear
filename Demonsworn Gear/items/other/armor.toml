@@ -1,7 +1,7 @@
          [fwi_demon_forged_chestplate]
            description = "A chestplate forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge..."
            defense = 8
-          icon_sprite = "fwi_demon_forged_chestplate"
+          icon_sprite = "spr_ui_item_fwi_demon_forged_chestplate"
           name = "Demon-Forged Chestplate"
           recipe_is_default = true
           overwrites_other_mod = false
@@ -31,7 +31,7 @@
                   [fwi_demon_forged_helm] 
           description = "An enchanted essence blossom empowered in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge..."
           defense = 8
-          icon_sprite = "fwi_enchanted_essence_blossom"
+          icon_sprite = "spr_ui_item_fwi_enchanted_essence_blossom"
           name = "Demon-Forged Essence Blossom"
           recipe_is_default = true
           overwrites_other_mod = false
@@ -61,7 +61,7 @@
                   [fwi_demon_forged_boots]
           description = "A pair of boots forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge..."
           defense = 8
-          icon_sprite = "fwi_demon_forged_boots"
+          icon_sprite = "spr_ui_item_fwi_demon_forged_boots"
           name = "Demon-Forged Boots"
           recipe_is_default = true
           overwrites_other_mod = false
@@ -91,7 +91,7 @@
                   [fwi_demon_forged_thingy]
           description = "A... Something forged in Demonic fire, although this one is probably a knockoff as it was made in a Dragon Forge..."
           defense = 8
-          icon_sprite = "fwi_demon_forged_thingy"
+          icon_sprite = "spr_ui_item_fwi_demon_forged_thingy"
           name = "Demon-Forged Thingy"
           recipe_is_default = true
           overwrites_other_mod = false
@@ -121,7 +121,7 @@
                   [fwi_demon_forged_panties]
           description = "Some luxurious pink 'shorts' trimmed in gold, and forged in Demonic fire, although these ones are knockoffs as they were made in a Dragon Forge..."
           defense = 8
-          icon_sprite = "fwi_demon_forged_shorts"
+          icon_sprite = "spr_ui_item_fwi_demon_forged_shorts"
           name = "Demon-Forged 'Shorts'"
           recipe_is_default = true
           overwrites_other_mod = false
