@@ -1,78 +1,30 @@
-{
-    "items": [
-        {
-      "item": {
-        "crafting_scroll": "fwi_sword_demon_forged"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-        },
-        {
-         "item": {
-        "crafting_scroll": "fwi_electrum_ingot"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-            {
-         "item": {
-        "crafting_scroll": "fwi_demon_forged_thingy"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-            {
-         "item": {
-        "crafting_scroll": "fwi_demon_forged_panties"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-            {
-         "item": {
-        "crafting_scroll": "fwi_demon_forged_boots"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-            {
-         "item": {
-        "crafting_scroll": "fwi_demon_forged_helm"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-            {
-         "item": {
-        "crafting_scroll": "fwi_demon_forged_chestplate"
-      },
-      "store": "blacksmith",
-      "category": "modded_icon"
-    },
-//yeet some of this afterward
-            {
-        "item": {
-        "crafting_scroll": "fwi_spellfruit_mocktail_bundle"
-        },
-        "store": "inn",
-        "category": "spr_ui_store_category_icon_cooking_recipes"
-            }//,
-//Debug item
-   //         {
-     //    "item": 
-      //   "fwi_debug_gear_bundle",
-      //   "store": "blacksmith",
-      //   "category": "modded_icon"
-    //    }
-    ],
+
+[[blacksmith.categories]]
+    icon = "spr_ui_item_perfect_pink_diamond"
+    constant_stock = [
+        { recipe_scroll = "fwi_sword_demon_forged" },
+        { recipe_scroll = "fwi_electrum_ingot" },
+        { recipe_scroll = "fwi_demon_forged_helm" },
+        { recipe_scroll = "fwi_demon_forged_boots" },
+        { recipe_scroll = "fwi_demon_forged_thingy" },
+        { recipe_scroll = "fwi_demon_forged_panties" },
+        { recipe_scroll = "fwi_demon_forged_chestplate" },
+
+    ]
+
+[[inn.categories]]
+    icon = "spr_ui_store_category_icon_cooking_recipes"
+    constant_stock = [ 
+        { recipe_scroll = "fwi_spellfruit_mocktail_bundle" },
+    ]
+
+#Debug Items
+
+[[balor.categories]]
+    icon = "spr_ui_store_category_icon_materials"
+    constant_stock = [
+        { item = "fwi_debug_gear_bundle" },
+    ]
 
   
 
- "categories": [
-    {
-      "store": "blacksmith",
-      "icon_name": "modded_icon",
-      "sprite": "images/spr_ui_item_perfect_pink_diamond_0.png"
-    }
-  ]
-}
