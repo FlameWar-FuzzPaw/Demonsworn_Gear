@@ -1,6 +1,6 @@
 [fwi_electrum_ingot]  
     description = "An ingot of pure electrum alloy."
-    icon_sprite = "spr_ui_item_fwi_electrum_ingot"
+    icon_sprite = "spr_ui_item_materials_fwi_electrum_ingot"
     name = "Electrum Ingot"
     overwrites_other_mod = false
     tags = [
@@ -27,7 +27,7 @@
       [fwi_sword_demon_forged]
     description = "A sword forged in Demonic fire, although this one is a knockoff as it was made in a Dragon Forge..."
     damage = 32
-    icon_sprite = "spr_ui_item_fwi_demon_forged_sword"
+    icon_sprite = "spr_ui_item_tools_fwi_demon_forged_sword"
     name = "Demon-Forged Blade"
     quality = "tier6"
     recipe_is_default = true

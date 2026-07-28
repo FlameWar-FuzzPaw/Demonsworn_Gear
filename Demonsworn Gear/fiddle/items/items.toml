@@ -6,7 +6,7 @@
 
           [fwi_spellfruit_mocktail_bundle]
           description = "An unfinished spell fruit mocktail. Use to stir and finish it."
-          icon_sprite = "spr_ui_item_fwi_spellfruit_mocktail"
+          icon_sprite = "spr_ui_item_food_fwi_spellfruit_mocktail"
           name = "Unfinished Spell Fruit Mocktail"
           overwrites_other_mod = false
           stars = 5
@@ -34,7 +34,7 @@
 
         [fwi_spellfruit_mocktail]
     description = "A mocktail made from spell fruit and essence blossoms, consume for 50 essence."
-    icon_sprite = "spr_ui_item_fwi_spellfruit_mocktail"
+    icon_sprite = "spr_ui_item_food_fwi_spellfruit_mocktail"
     name = "Spell Fruit Mocktail"
     overwrites_other_mod = false
 
@@ -66,7 +66,7 @@
 
                 [fwi_debug_gear_bundle]
           description = "this is for debug purposes [Ari], hence the bad grammer"
-          icon_sprite = "spr_ui_item_fwi_demon_forged_shorts"
+          icon_sprite = "spr_ui_item_equipment_fwi_demon_forged_shorts"
           name = "debug shit"
           overwrites_other_mod = false
           stars = 5
