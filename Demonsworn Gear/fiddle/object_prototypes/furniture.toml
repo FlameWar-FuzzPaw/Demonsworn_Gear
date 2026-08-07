@@ -1,0 +1,28 @@
+[fwi_demon_forge]
+	size = [8, 8]
+	collision_grid = [
+		"00022200",
+		"02222200",
+		"22222200",
+		"22222222",
+		"22200011",
+		"22200011",
+		"22200011",
+		"22000010",
+
+	]
+	mirror_west = false
+	can_be_child = false
+
+	[fwi_demon_forge.interact_menu]
+		ari_offset = [-10, 16]
+		menu = "fwi_demon_forge"
+		bubble_big = "spr_ui_bark_icon_woodcrafting"
+		bubble_small = "spr_ui_bark_icon_woodcrafting_small"
+		offset = "interaction/woodcrafting_offset"
+
+	[fwi_demon_forge.south]
+		interact_mask = "spr_object_crafting_table_spring_empty_east_interaction_mask"
+		offset = [32, 32]
+		sprite = "spr_furniture_fwi_demon_forge"
+		floor_sprite = "spr_furniture_fwi_demon_forge"

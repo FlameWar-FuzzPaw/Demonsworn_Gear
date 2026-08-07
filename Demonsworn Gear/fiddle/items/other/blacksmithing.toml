@@ -5,6 +5,7 @@
     overwrites_other_mod = false
     tags = [
       "ingot",
+      "fwi_demon_forge",
       "blacksmithing"
     ]
     crafting_level_requirement = 10
@@ -36,6 +37,7 @@
     tags = [
       "sword",
       "blacksmithing",
+      "fwi_demon_forge",
       "weapon"
     ]
     crafting_level_requirement = 60

@@ -1,0 +1,12 @@
+[demonic1]
+	color = [255, 161, 210, 255]
+	name = "Demonic"
+	description = "Demonic energy empowers this item, giving you a stacking +5% movement speed and +5% damage."
+	sub_icon = "spr_ui_tooltip_infusion_icon_fwi_demonic"
+	tooltip_icon = "spr_ui_tooltip_infusion_icon_fwi_demonic"
+	craftable = false
+	supported_tags = ["armor"]
+	speed_percent = 1.05
+	speed_flat = 0
+	atk_percent = 1.05
+	atk_flat = 0

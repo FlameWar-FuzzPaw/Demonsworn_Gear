@@ -21,10 +21,11 @@
 #Debug Items
 
 [[balor.categories]]
-    icon = "spr_ui_store_category_icon_materials"
+    MOMIidentify = { icon = "spr_ui_store_category_icon_materials" }
     constant_stock = [
         { item = "fwi_debug_gear_bundle" },
+        { item = "fwi_demon_forge" },
     ]
-
+    MOMIaction = "merge"
   
 
