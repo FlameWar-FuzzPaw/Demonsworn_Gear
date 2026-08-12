@@ -6,7 +6,7 @@
 	tooltip_icon = "spr_ui_tooltip_infusion_icon_fwi_demonic"
 	craftable = false
 	supported_tags = ["armor"]
-	speed_percent = 1.05
+	speed_percent = 7.5
 	speed_flat = 0
-	atk_percent = 1.05
+	atk_percent = 5
 	atk_flat = 0
