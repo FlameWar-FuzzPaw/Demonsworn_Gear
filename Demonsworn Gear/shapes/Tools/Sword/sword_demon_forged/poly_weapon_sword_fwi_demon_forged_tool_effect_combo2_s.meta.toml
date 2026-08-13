@@ -1,7 +1,7 @@
 [meta_properties]
-id = "b0117905c9bf19a5"
+
 asset_kind = "Shape"
-required_assets = ["72160b0cd6017ea2"]
+
 
 [asset_properties]
 kind = "box"
