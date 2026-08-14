@@ -2,7 +2,7 @@
 [fwi_demon_forge]
 	icon_sprite = "spr_ui_item_crafting_table"
 	name = "Demon Forge"
-	description = "An example modded crafting station. Place it, then interact to craft."
+	description = "A demon-forge, used for crafting various items that require interdiciplinary skill and unique equipment."
 	value = { bin = 80, store = 800 }
 	object = "fwi_demon_forge"
 	tags = ["furniture", "misc_furniture"]

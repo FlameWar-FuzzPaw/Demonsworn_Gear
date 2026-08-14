@@ -1,6 +1,12 @@
-A WIP mod that adds endgame armor and weapons that focus on mobility and damage rather than defense.
+A WIP mod that is planned to eventually be a full expansion mod with new monsters, NPCs, romancable(s), equipment, and more! I've decided to put the mod up publicly this early in its development partly as a proof of concept, as well as to gauge interest for it
 
-Spoiler alert!
+Most of the sprites for items/equipment are currently placeholders and will be replaced with better versions when I either get the money to commssion people, or trade for it in some way. (No, I will NOT be using Slop Bot™️ for ANY part of this mod!!!)
 
 
-The equipment is crafted on floor 90 of the mines, at the dragon forge, although this will get changed once it becomes possible/easier to implement custom crafting stations.
+Demonsworn is planned to be my take of an extended version of FoM that becomes accessable after completing the mines questline... I don't want to spoil too much before I actually get NPCs, new areas and cutscenes in, but yes, there will be (my take) on demons, and you will have the opportunity to become the equivalent of a dragonsworn to them i.e a Demonsworn-
+
+
+
+
+
+Also, I'd like to give a special shout out to Felix/ D3Ulo for writing some of the more complex and experimental functions and scripts for this mod since I had no idea where to start with them-

@@ -90,6 +90,10 @@ function demonic_atk_filter(_value, _ctx) {
     if (_value.target != CombatTarget.Enemy) return undefined;             // only player outgoing hits
     if (!instance_exists(obj_ari)) return undefined;                       // no loaded world / no player
 
+    var hardcap = 9999999;
+    if ( _value.damage > 10000000) _value.damage = hardcap; //it's janky af but it works so what the hell...
+    if ( _value.damage > 9999998) return undefined;   //attempt to put a damage cap to prevent an infinite loop from occuring, crashing the game...
+
     var _b = demonic_atk_gather(ARI);
     _value.damage = _value.damage * (1 + _b.pct / 100) + _b.flat;          // The _value here is the "damage" object so to know which fields you can edit (in this the case the damage field) you need to actually look for the relevant GML file in this case it's in assets\gml\objects\Combat 
     return undefined;                                                      // keeping the (mutated) tarball
